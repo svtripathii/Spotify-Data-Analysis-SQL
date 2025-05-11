@@ -38,9 +38,7 @@ Data Visualization: Insights visualized through charts (e.g., peak listening hou
 
 ├── Data/                   # Raw and cleaned datasets (CSV)  
 ├── Queries/                # SQL scripts for analysis  
-│   ├── top_artists.sql  
-│   ├── skipping_behavior.sql  
-│   └── time_analysis.sql  
+│   ├── Sql Code.sql   
 ├── Documentation/          # Project report and visuals  
 ├── README.md               # Project overview and setup guide  
 └── .gitignore  
